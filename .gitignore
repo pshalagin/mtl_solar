@@ -1,6 +1,7 @@
 .cache/
 .idea/
 .vscode/
+.vagrant/
 dist/
 node_modules/
 storybook-static/
